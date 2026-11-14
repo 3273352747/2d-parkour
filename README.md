@@ -89,10 +89,8 @@ LoginScene处理玩家名和开始请求，SampleScene负责游玩，GameOverSce
 |-- TemplateData/              # 网页样式与图片
 |-- docs/
 |   |-- DEVELOPMENT.md         # 开发记录
-|   |-- TESTING.md             # 回归清单
 |   `-- images/                # 游戏截图
 |-- licenses/                  # 字体许可证
-|-- tools/                     # 本地检查、测试与预览工具
 |-- .gitignore
 `-- .nojekyll
 ```
