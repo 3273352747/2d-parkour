@@ -1,0 +1,10 @@
+{
+  "loaderUrl": "Build/runner-responsive.loader.js",
+  "dataUrl": "Build/runner-responsive.data.unityweb",
+  "frameworkUrl": "Build/runner-responsive.framework.js.unityweb",
+  "codeUrl": "Build/runner-responsive.wasm.unityweb",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "DefaultCompany",
+  "productName": "2D跑酷",
+  "productVersion": "1.0"
+}
