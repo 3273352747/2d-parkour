@@ -1,10 +1,4 @@
-## 在线体验步骤
-
-**直接进入：[2D跑酷在线试玩](https://3273352747.github.io/2d-parkour/)**
-
-拥有仓库设置权限时，也可以按图中的 **① Settings → ② Pages → ③ Visit site** 打开游戏。
-
-![2D跑酷在线体验步骤：①打开Settings，②选择Pages，③点击Visit site](docs/images/online-experience-steps.svg)
+**[2D跑酷在线试玩](https://3273352747.github.io/2d-parkour/)**
 
 # 2D跑酷
 
