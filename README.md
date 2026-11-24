@@ -4,7 +4,7 @@
 
 使用 **Unity 2D + C#** 制作的单机跑酷游戏。场景持续滚动，玩家把握跳跃时机收集金币、避开障碍，在逐步加快的节奏中挑战更高分数。
 
-**[在线试玩](https://3273352747.github.io/2d-parkour/)** · **[开发记录](docs/DEVELOPMENT.md)**
+**[开发记录](docs/DEVELOPMENT.md)**
 
 ## 项目概览
 
